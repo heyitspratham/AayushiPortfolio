@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AayushiPortfolio/static/css/main.a03353d2.css",
+    "main.js": "/AayushiPortfolio/static/js/main.3aa49ccc.js",
+    "static/media/10.jpg": "/AayushiPortfolio/static/media/10.d071e13d5996b54ec710.jpg",
+    "static/media/9.jpg": "/AayushiPortfolio/static/media/9.88450b521c37a8100020.jpg",
+    "static/media/6.jpg": "/AayushiPortfolio/static/media/6.d8ee96405c16ed23cc1f.jpg",
+    "static/media/5.jpg": "/AayushiPortfolio/static/media/5.bccd13a1ac76f6c0c05d.jpg",
+    "static/media/4.jpg": "/AayushiPortfolio/static/media/4.a710b377dace2317bf6d.jpg",
+    "static/media/8.jpg": "/AayushiPortfolio/static/media/8.6971e9f79cba770e4943.jpg",
+    "static/media/7.jpg": "/AayushiPortfolio/static/media/7.6c2a4edab1768a9879b5.jpg",
+    "static/media/12.jpg": "/AayushiPortfolio/static/media/12.95cdc6c8bd84f47adcbc.jpg",
+    "static/media/13.jpg": "/AayushiPortfolio/static/media/13.336766b9ec56b1e88018.jpg",
+    "index.html": "/AayushiPortfolio/index.html",
+    "main.a03353d2.css.map": "/AayushiPortfolio/static/css/main.a03353d2.css.map",
+    "main.3aa49ccc.js.map": "/AayushiPortfolio/static/js/main.3aa49ccc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a03353d2.css",
+    "static/js/main.3aa49ccc.js"
+  ]
+}
